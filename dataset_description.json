@@ -1,16 +1,18 @@
 {
-    "Name": "Speed Control",
+    "Name": "BCIT Speed Control",
     "BIDSVersion": "1.7.0",
     "HEDVersion": "8.0.0",
     "License": "CC0",
     "Authors": [
-        "Jonathan Touryan",
-        "Greg Apker",
-        "Brent Lance",
-        "Scott Kerick",
-        "Anthony Ries",
-        "Justin Brooks",
-        "Kaleb McDowell"
+        "Jonathan Touryan (data and curation)",
+        "Greg Apker (data)",
+        "Brent Lance (data)",
+        "Scott Kerick (data)",
+        "Anthony Ries (data)",
+        "Justin Brooks (data)",
+        "Kaleb McDowell (data)",
+        "Tony Johnson (curation)",
+        "Kay Robbins (curation)"
     ],
     "Acknowledgments": "Tony Johnson and Mike Dunkel from DCS Corporation originally curated the data in ESS (EEG Study Schema) format. Kay Robbins, Joe Lambeth and Jonathan Balraj of the University of Texas at San Antonio performed further curation and placed this dataset in BIDS format. The experiments were performed at Teledyne Laboratories (Durham, NC)  under contract with the US Army Research Laboratory. The study was reviewed and approved by the U.S. Army Human Research Protections Office (Protocol ARL 12-040) before the study began.",
     "HowToAcknowledge": "Garcia, J.O., Brooks, J., Kerick, S., Johnson, T., Mullen, T.R., Vettel, J.M., 2017. Estimating direction in brain-behavior interactions: Proactive and reactive brain states in driving. NeuroImage 150, 239?249. https://doi.org/10.1016/j.neuroimage.2017.02.057.",
